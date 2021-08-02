@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewpagerMenu</string>
+    <string name="quiche">Quiche</string>
+    <string name="pizza">Pizza</string>
+    <string name="brownie">Brownie</string>
+    <string name="descricao_quiche">Queijo roquefort e nozes fazem um par perfeito. Mas para deixar
+        esta quiche ainda melhor, depois de fazer a torta, coloque fatias de pêra descascada, como na foto.
+        Duas peras são suficientes. Leve para assar e sirva com um salada de folhas verdes.</string>
+</resources>
